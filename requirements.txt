@@ -1,0 +1,7 @@
+requests
+psycopg2-binary
+python-dateutil
+selenium
+pillow
+webdriver-manager
+python-dotenv
